@@ -1,4 +1,4 @@
-<h1 align="center">Hi Folks👋, I'm Tri Aji Prakoso</h1>
+<h1 align="center">Welcome Folks👋, I'm Tri Aji Prakoso</h1>
 <h3 align="center">Highly Motivated Data Enthusiast, Bangkit Academy led by Google, GoTo, Traveloka Machine Learning Specialization & Computer Sciences Graduated</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aji-prakoso&label=Profile%20views&color=0e75b6&style=flat" alt="aji-prakoso" /> </p>
