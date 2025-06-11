@@ -1,4 +1,4 @@
-<h1 align="center">Hi Folks 👋, I'm Tri Aji Prakoso</h1>
+<h1 align="center">Hi 👋, I'm Tri Aji Prakoso</h1>
 <h3 align="center">Highly Motivated Data Enthusiast, 2022 Bangkit Academy Machine Learning Specialization & Computer Sciences Graduated</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aji-prakoso&label=Profile%20views&color=0e75b6&style=flat" alt="aji-prakoso" /> </p>
@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on **Forage British Airways Passenger Data Analysis**
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**
+
+- 💬Familiar with Programming Language **Python, SQL**
 
 - 📫 How to reach me **triajiprkzo@gmail.com**
 
@@ -24,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aji-prakoso&show_icons=true&locale=en" alt="aji-prakoso" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aji-prakoso&" alt="aji-prakoso" /></p>
-
