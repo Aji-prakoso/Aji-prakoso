@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aji-prakoso&label=Profile%20views&color=0e75b6&style=flat" alt="aji-prakoso" /> </p>
 
-- 🔭 I’m currently working on [Forage British Airways Passenger Data Analysis](https://github.com/Aji-prakoso/British-Airways-Lounge-Estimation-Customer-Behavior)
+- 🔭 I’m currently working on [British Airways Passenger Data Analysis](https://github.com/Aji-prakoso/British-Airways-Lounge-Estimation-Customer-Behavior)
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**
 
